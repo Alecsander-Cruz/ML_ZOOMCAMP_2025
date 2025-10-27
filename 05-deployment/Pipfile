@@ -13,4 +13,3 @@ gunicorn = "==23.0.0"
 
 [requires]
 python_version = "3.12"
-
